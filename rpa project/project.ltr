@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>C:\Users\user\Contacts\Desktop\n3\Новый проект\Main.ltw</Key>
+            <Value>624e856c-2bed-42d6-8c6e-748278dd2485</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints />
+    <BreakpointLines />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\user\Contacts\Desktop\n3\Новый проект\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
